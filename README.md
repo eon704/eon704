@@ -13,7 +13,7 @@ _Actively searching for work! 💼 💻_
 
 ## Work highlights:
 
-### HENchman:
+### HENchman (Summer 2023 - Ongoing):
   - A 2D side-scroller resource management dungeon defence game.
   - Playing as Hendall the Hen, prevent Heroes from reaching the treasure at the end of the level by planning and strategically deploying traps.
   - Submission for the GMTK 2023 Game Jam.
@@ -25,10 +25,14 @@ _Actively searching for work! 💼 💻_
 
 ![Highlight](https://github.com/eon704/eon704/assets/16372290/bc2fde12-588c-4f88-849a-e906f8119e49)
 
-### Vandal:
+### Vandal (Fall 2022 - Ongoing):
 - https://rogangutwillinger.itch.io/vandal
 
-### ICU:
+### ICU (Summer 2023):
 - https://bugmodule.itch.io/icu
 
-### Wizard's Quest:
+### The Lost Spirit (Summer 2022):
+- https://eon704.itch.io/the-lost-spirit
+
+### Wizard's Quest (Winter 2022):
+- https://eon704.itch.io/wizards-quest
