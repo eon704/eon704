@@ -28,17 +28,27 @@ _Actively searching for work! 💼 💻_
 ![Highlight](https://github.com/eon704/eon704/assets/16372290/bc2fde12-588c-4f88-849a-e906f8119e49)
 
 ### Vandal (Fall 2022 - Ongoing):
-- https://rogangutwillinger.itch.io/vandal
+- Download and play the game at [itch.io](https://rogangutwillinger.itch.io/vandal).
 
 ## Other work:
 
 ### ICU (Summer 2023):
-- https://bugmodule.itch.io/icu
+- Download and play the game at [itch.io](https://bugmodule.itch.io/icu).
 - [Repo](https://github.com/Glowies/to-jam-23).
 
 ### The Lost Spirit (Summer 2022):
-- https://eon704.itch.io/the-lost-spirit
+- Top-down 2D survival game, submission for the [Brackey Game Jam 2022.2](https://itch.io/jam/brackeys-8).
+  - The Guardian Spirit of the Maple Forest found itself lost, in a deep dark cave. Will you find the way out?
+  - Find the fellow Forest Spirits.
+  - Save the lost souls you find along the way.
+  - Don't let the devils come close and make them disappear with your spell.
+- Download and play the game at [itch.io](https://eon704.itch.io/the-lost-spirit).
 - [Repo](https://github.com/eon704/YouAreNotAlone).
+
+<img width="1512" alt="Cover" src="https://github.com/eon704/YouAreNotAlone/assets/16372290/d2d41f0d-009f-4667-9361-f7dd8e0cedec">
+
+![Battle](https://github.com/eon704/eon704/assets/16372290/8f45677d-5920-4067-99e9-c043434e30cd)
+
 
 ### Wizard's Quest (Winter 2022):
 - Top-down shooter submission for the [Brackeys Game Jam 2022.1](https://itch.io/jam/brackeys-7).
