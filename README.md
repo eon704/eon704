@@ -28,6 +28,8 @@ _Actively searching for work! 💼 💻_
 ### Vandal (Fall 2022 - Ongoing):
 - https://rogangutwillinger.itch.io/vandal
 
+## Other work:
+
 ### ICU (Summer 2023):
 - https://bugmodule.itch.io/icu
 
