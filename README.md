@@ -8,8 +8,8 @@ _Actively searching for work! 💼 💻_
 
 - 🔭 I’m currently working on:
   - 🐓 [HENchman](https://eon704.itch.io/henchman).
-  - 🖼️ [Vandal](https://rogangutwillinger.itch.io/vandal).
-- 🌱 I’m currently learning Unity Netcode for GameObjects.
+  - 🧪 WIP Mobile Project.
+- 🌱 I’m currently learning Unity Gaming Services for a WIP Mobile Project.
 - 🎮 See my work: [itch.io](https://itch.io/profile/eon704).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arman-akhmetov/) | eon704@gmail.com
 
@@ -22,7 +22,7 @@ _Actively searching for work! 💼 💻_
     - Plan and strategically deploy traps to survive as long as possible.
   - Submission for the GMTK 2023 Game Jam.
   - In active development, coming to mobile later this year!
-  - Game available at [itch.io](https://eon704.itch.io/henchman) (first build).
+  - Game available at [itch.io](https://eon704.itch.io/henchman) (First Mobile builds!).
   - [Repo](https://github.com/KrillOrBeKrilled/GMTK-2023).
 
 ![main menu with title](https://github.com/eon704/eon704/assets/16372290/9cd3ffeb-95a9-4109-9aa8-bfaeb28eb3d7)
