@@ -8,7 +8,7 @@ _Actively searching for work! 💼 💻_
 
 - 🔭 I’m currently working on:
   - 🐓 [HENchman](https://eon704.itch.io/henchman).
-  - 🧪 WIP Mobile Project.
+  - 🥔🥦🥬 [World of Turnips](https://ca.linkedin.com/company/worldofturnips).
 - 🌱 I’m currently learning Unity Gaming Services for a WIP Mobile Project.
 - 🎮 See my work: [itch.io](https://itch.io/profile/eon704).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/arman-akhmetov/) | eon704@gmail.com
